@@ -1,0 +1,26 @@
+nav {
+    border-radius: 0;
+    border: 0;
+}
+#navbar-collapse > #nav-list {
+    background-color: #eee;
+    padding: 0;
+}
+#navbar-collapse.navbar-collapse {
+    border: 0;
+    padding-bottom: 0;
+}
+ul#nav-list.visible-xs.nav.navbar-nav {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.content {
+    background-color: #eee;
+}
+.content > h2 {
+    padding-top: 10px;
+}
+
+section.container-fluid {
+    padding: 0 40px 30px;
+}
