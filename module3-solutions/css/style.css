@@ -16,6 +16,10 @@ ul#nav-list.visible-xs.nav.navbar-nav {
 }
 .content {
     background-color: #eee;
+    margin-bottom: 15px;
+}
+.content > div {
+    padding: 10px;
 }
 .content > h2 {
     padding-top: 10px;
